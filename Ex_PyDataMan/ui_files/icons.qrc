@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icons/import-icon.png</file>
+    <file>icons/export-icon.png</file>
+    <file>icons/preferences-icon.png</file>
+    <file>icons/exit-icon.png</file>
+	<file>icons/program-icon.png</file>
+</qresource>
+</RCC>
